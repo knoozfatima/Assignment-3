@@ -1,0 +1,182 @@
+
+.social-menu ul {
+    display: flex;
+ /* transform: translate(1%,-10%); */
+
+ list-style-type: none;
+ 
+}
+.social-menu
+{
+  background-color:#3b5998;
+  /* box-sizing: border-box; */
+  height: 100%;
+  /* width: 100%; */
+  padding-top: 20px;
+  margin-top: 10px;
+  padding-bottom: -1px;
+
+
+}
+.social-menu ul li{
+  margin: 0 15px; 
+  color: white;
+  font-size: 20px;
+ 
+}
+.social-menu ul li .fa
+{
+  /* transition:- 6%; */
+  color: white;
+}
+/* body
+{
+  background-color: royalblue;
+} */
+
+.head1
+{
+  /* left: 100%; */
+font-size: 11px;
+color: white;
+}
+.btn
+{
+  border: white;
+  
+}
+.wowfadeInRightBig
+{
+  margin-left: 200PX;
+  margin-right: 200px;
+}
+.imageline::before,
+/* .imageline::after {
+  display: inline-block;
+  content: "";
+  border-top: .3rem solid black;
+  width: 4rem;
+  margin: 0 1rem;
+  transform: translateY(-1rem);
+} */
+.imageline
+{ border-bottom: 1px solid #000;
+  
+
+}
+.imag
+{
+  width: 235px;
+  height: 80px;
+ 
+  padding-left: 25px;
+} 
+h1{
+  color: blue;
+}
+.green
+{
+  color: green;
+}
+nav ul
+{
+
+width: 100%;
+margin-top: 0px;
+display: inline;
+
+margin-left: 80px;
+}
+
+
+nav ul li{
+  
+  display: inline-block;
+  line-height: 0px;
+ padding: -60px;
+
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  padding: 30px;
+  
+}
+
+.home
+{
+  border-radius: 80px;
+  background-color:#3b5998;
+  color: white;
+  
+}
+.ii{
+  
+  background-color: rgb(0, 132, 255);
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+}
+.li1
+{
+  margin-left: 100px;
+  color: white;
+  font-size: 50px;
+}
+.img1
+{
+  margin-left: 40px;
+}
+.img2
+{
+  margin-left: 200px;
+}
+.DAST
+{
+  
+  margin-left: -50PX;
+}
+.num{
+  margin-left: -60px;
+}
+.tab{
+background-color: rgb(0, 140, 255);
+
+
+}
+h2
+{
+  margin-left: 50px;
+}
+.footer
+{
+  height: 300px;
+  background-color: #303036;
+  color: white;
+  margin-top: 300px;
+  position: relative;
+}
+.footer .footer-bottom
+{
+  background: rgb(0, 118, 173);
+  color: white;
+  height: 50px;
+  text-align: center;
+  position: absolute;
+  bottom:0px;
+  left:0px;
+  width: 100%;
+  padding-top: 20px;
+}
+.footer .footer-content .footer-section
+{
+  flex: 1;
+  padding: 25px;
+  /* border: 1px solid wheat; */
+}
+.footer .footer-content
+{
+  
+  display: flex;
+}
